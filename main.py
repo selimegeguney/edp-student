@@ -1,5 +1,5 @@
-from student import Student
-from embassy import Embassy
+from classes.student import Student
+from classes.embassy import Embassy
 from events.embassy_appointment_request_event import EmbassyAppointmentRequestEvent
 from events.appointment_confirmation_event import AppointmentConfirmationEvent
 
